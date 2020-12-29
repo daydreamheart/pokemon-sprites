@@ -1,2 +1,2 @@
 # pokemon-sprites
-A single-page Pokemon Sprites demo to practice basic DOM. 💫
+A single-page Pokemon Sprites demo with basic DOM. 💫
